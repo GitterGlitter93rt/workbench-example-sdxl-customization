@@ -18,15 +18,12 @@ cd -
 sudo pip install huggingface-hub==0.34.0
 
 if [[ "$ARCH" == "arm"* || "$ARCH" == "aarch64" ]]; then
-    # If ARM architecture, user is on DGX Spark
-    echo "Detected ARM architecture. User is on Spark; installing CUDA 13.0 compatible torch"
-    sudo pip uninstall torch torchvision torchaudio -y
-    sudo pip install --pre torch torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu130
+    echo "Detected ARM architecture. Installing preview torch for ARM"
+    python -m pip install --upgrade --force-reinstall torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu130
 else
-    # Otherwise, install normal torch
-    echo "Architecture is not ARM. Installing standard torch"
-    sudo pip install torch==2.6.0 torchvision==0.21.0
+    echo "Architecture is not ARM. Installing CUDA 12.8 torch for RTX 5080"
+    python -m pip install --upgrade --force-reinstall torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+    python -m pip install --force-reinstall numpy==1.26.4
 fi
-
 sudo mkdir -p /mnt/cache/
 sudo chown $NVWB_UID:$NVWB_GID /mnt/cache/
