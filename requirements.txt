@@ -193,7 +193,7 @@ toml==0.10.2
 tomli==2.0.1
 tomlkit==0.12.0
 tornado==6.3.3
-tqdm==4.66.1
+tqdm
 traitlets==5.9.0
 transformers==4.48.2
 types-dataclasses==0.6.6
@@ -212,3 +212,6 @@ websockets==11.0.3
 Werkzeug==2.3.7
 widgetsnbextension==4.0.14
 xdoctest==1.0.2
+opencv-python
+mediapipe
+ffmpeg
