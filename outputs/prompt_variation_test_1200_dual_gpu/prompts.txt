@@ -1,0 +1,59 @@
+[portrait_soft_bedroom]
+murenperson, petite asian woman, long black hair,
+symmetrical eyes, clear focused gaze,
+relaxed natural expression, slight closed-mouth smile,
+balanced facial features, soft natural lips,
+defined cheekbones, short natural face shape,
+pastel lingerie,
+upper body portrait, looking at camera,
+soft bedroom lighting, realistic photo, 85mm lens
+
+[portrait_outdoor_daylight]
+murenperson, petite asian woman, long black hair,
+relaxed natural expression, slight closed-mouth smile,
+upper body portrait, looking at camera,
+outdoor natural daylight, realistic photo, 85mm lens
+
+[portrait_studio_clean]
+murenperson, petite asian woman, long black hair,
+neutral expression, balanced facial features,
+upper body portrait, looking at camera,
+soft studio lighting, realistic photo, 85mm lens
+
+[three_quarter_view]
+murenperson, petite asian woman, long black hair,
+relaxed natural expression,
+3/4 view portrait, looking slightly toward camera,
+soft natural lighting, realistic photo, 85mm lens
+
+[side_profile]
+murenperson, petite asian woman, long black hair,
+neutral expression,
+side profile portrait, looking away,
+soft natural lighting, realistic photo, 85mm lens
+
+[standing_full_body]
+murenperson, petite asian woman, long black hair,
+standing naturally, full body, arms visible,
+soft indoor lighting, realistic photo
+
+[sitting_full_body]
+murenperson, petite asian woman, long black hair,
+sitting naturally, full body, arms visible,
+soft indoor lighting, realistic photo
+
+[hands_on_lap]
+murenperson, petite asian woman, long black hair,
+sitting pose, hands resting naturally on lap,
+full body, soft indoor lighting, realistic photo
+
+[hand_touching_hair]
+murenperson, petite asian woman, long black hair,
+upper body portrait, one hand touching hair,
+soft indoor lighting, realistic photo
+
+[barefoot_relaxed]
+murenperson, petite asian woman, long black hair,
+relaxed seated pose, bare feet visible,
+natural limbs, soft indoor lighting, realistic photo
+
