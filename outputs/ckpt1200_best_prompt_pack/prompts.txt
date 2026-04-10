@@ -1,0 +1,50 @@
+[hands_on_hips_lingerie]
+murenperson, petite asian woman, long black hair,
+standing pose, both hands on hips,
+confident relaxed expression,
+full body, balanced posture, natural proportions,
+matching two piece lingerie,
+vertical framing, soft indoor lighting,
+realistic photo, 85mm lens,
+single person, alone
+
+[medium_distance_portrait_lingerie]
+murenperson, petite asian woman, long black hair,
+standing portrait from knees up, arms visible,
+soft natural expression, looking at camera,
+balanced facial features, defined cheeks,
+matching two piece lingerie,
+vertical framing, soft indoor lighting,
+realistic photo, 85mm lens,
+single person, alone
+
+[one_hand_touching_hair_lingerie]
+murenperson, petite asian woman, long black hair,
+standing pose, one hand touching hair, other arm relaxed,
+soft confident expression, looking at camera,
+full body, natural posture, natural proportions,
+matching two piece lingerie,
+vertical framing, soft indoor lighting,
+realistic photo, 85mm lens,
+single person, alone
+
+[hands_on_hips_casual]
+murenperson, petite asian woman, long black hair,
+standing pose, both hands on hips,
+confident relaxed expression,
+full body, balanced posture, natural proportions,
+fitted crop top and shorts,
+vertical framing, soft indoor lighting,
+realistic photo, 85mm lens,
+single person, alone
+
+[phone_in_hand_no_mirror_lingerie]
+murenperson, petite asian woman, long black hair,
+standing pose, holding phone loosely in one hand,
+looking at camera, relaxed expression,
+full body, natural arms and hands, natural proportions,
+matching two piece lingerie,
+vertical framing, soft indoor lighting,
+realistic photo, 85mm lens,
+single person, alone
+

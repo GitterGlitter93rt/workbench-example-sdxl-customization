@@ -1,0 +1,6 @@
+Selected best seeds for ckpt1200 best prompt pack
+
+01: 320129395
+02: 1366148726
+03: 3697598555
+04: 3567878085
